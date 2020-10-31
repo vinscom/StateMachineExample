@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
-using Foo.Repository;
+using state_machine.Repository;
 using MongoDB.Driver;
 
-namespace Foo.TranscriptWorkflow
+namespace state_machine.TranscriptWorkflow
 {
     public class WorkflowManager
     {

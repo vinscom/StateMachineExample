@@ -4,7 +4,7 @@ using System;
 using MongoDB.Bson.Serialization.Attributes;
 using MongoDB.Bson;
 
-namespace Foo.TranscriptWorkflow
+namespace state_machine.TranscriptWorkflow
 {
     [BsonIgnoreExtraElements]
     public class Workflow

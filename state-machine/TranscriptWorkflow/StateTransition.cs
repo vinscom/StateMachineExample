@@ -1,4 +1,4 @@
-﻿namespace Foo.TranscriptWorkflow
+﻿namespace state_machine.TranscriptWorkflow
 {
     public class StateTransition
     {

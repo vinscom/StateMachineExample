@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Threading.Tasks;
-using Foo.TranscriptWorkflow;
+using state_machine.TranscriptWorkflow;
 using MongoDB.Driver;
 
-namespace Foo.Repository
+namespace state_machine.Repository
 {
     public class ModelContext
     {

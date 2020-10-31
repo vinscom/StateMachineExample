@@ -2,12 +2,12 @@
 using NUnit.Framework;
 using System.Threading.Tasks;
 using System.Collections.Generic;
-using Foo.Repository;
-using Foo.TranscriptWorkflow;
+using state_machine.Repository;
+using state_machine.TranscriptWorkflow;
 using System;
-using State = Foo.TranscriptWorkflow.State;
+using State = state_machine.TranscriptWorkflow.State;
 
-namespace FooTest.TranscriptWorkflow
+namespace state_machine_test.TranscriptWorkflow
 {
     [TestFixture]
     public class WorkflowManagerTest
