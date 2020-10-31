@@ -2,10 +2,10 @@
 using NUnit.Framework;
 using System.Threading.Tasks;
 using System.Collections.Generic;
-using state_machine.Repository;
-using state_machine.TranscriptWorkflow;
+using JustTranscript.Repository;
+using JustTranscript.TranscriptWorkflow;
 using System;
-using State = state_machine.TranscriptWorkflow.State;
+using State = JustTranscript.TranscriptWorkflow.State;
 
 namespace state_machine_test.TranscriptWorkflow
 {
