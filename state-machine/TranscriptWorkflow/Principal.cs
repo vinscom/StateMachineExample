@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace state_machine.TranscriptWorkflow
+namespace JustTranscript.TranscriptWorkflow
 {
     public class Principal
     {

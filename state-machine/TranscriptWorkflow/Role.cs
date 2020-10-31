@@ -1,5 +1,5 @@
 ﻿using System;
-namespace state_machine.TranscriptWorkflow
+namespace JustTranscript.TranscriptWorkflow
 {
     public enum Role
     {
